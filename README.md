@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtviolet&show_icons=true&theme=react)](https://github.com/jtviolet)
-
+Hi, I'm Jordan. I've been in developer relations for 8 years, most recently building the program at SailPoint, and I'm now VP of Engineering at Netwrix.
 <!--
 **jtviolet/jtviolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
